@@ -1,0 +1,8 @@
+
+*.lock
+.gradle/7.5/checksums/checksums.lock
+.gradle/7.5/checksums/checksums.lock
+.gradle/7.5/checksums/checksums.lock
+.gradle/7.5/dependencies-accessors/dependencies-accessors.lock
+.gradle/7.5/executionHistory/executionHistory.lock
+.gradle/7.5/fileHashes/fileHashes.lock
